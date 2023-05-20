@@ -97,5 +97,13 @@ Instrument Type Classification of the instrument text
 |CO| Concentration of carbon monoxide     | |
 |O3|   Concentration of ozone           | |
 |  SO2         | Concentration of sulphur dioxide                |  |
-|  Temperature         | Air temperature                                     |  |
-|           |                                      |  |
+|  Temperature         | Air temperature                                     | °C |
+| RH           |   Relative Humidity                                   | % |
+|         |                                       |   | 
+|        |                                      |    |
+|        |                                      |    |
+|        |                                      |    |
+|        |                                      |    |
+|        |                                      |     |
+|        |                                      |     |
+|        |                                      |     |
