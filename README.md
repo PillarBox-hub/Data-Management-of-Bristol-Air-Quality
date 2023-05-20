@@ -16,7 +16,13 @@ The following table shows the colour encoding and the levels for Objective 1 abo
 adopted in the UK.
 
 ![image](https://github.com/PillarBox-hub/Data-Management-of-Bristol-Air-Quality/assets/110098621/5e3ac520-0f8b-4d1d-9ae9-b08fd17e64f8)
+Further details of colour encodings and health warnings can be found at the DEFRA Site.
 
+
+# The Input Data(Overview and Description)
+
+The ZIP file  provides data ranging from 2004 to 05 October 2022 taken from 19 monitoring stations in
+and around Bristol.
 
 
 
