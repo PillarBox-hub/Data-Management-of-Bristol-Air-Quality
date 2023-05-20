@@ -24,6 +24,10 @@ Further details of colour encodings and health warnings can be found at the DEFR
 
 The ZIP file "bristol-air-quality-data"  provides data ranging from 2004 to 05 October 2022 taken from 19 monitoring stations in
 and around Bristol.
+The snippet below shows the header of 8 lines of the data cropped:
+
+![image](https://github.com/PillarBox-hub/Data-Management-of-Bristol-Air-Quality/assets/110098621/01b6541d-d7c9-4957-b5e2-96ca1b381167)
+
 
 
 
