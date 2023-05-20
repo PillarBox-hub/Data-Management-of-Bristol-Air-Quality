@@ -29,5 +29,28 @@ The snippet below shows the header of 8 lines of the data cropped:
 ![image](https://github.com/PillarBox-hub/Data-Management-of-Bristol-Air-Quality/assets/110098621/01b6541d-d7c9-4957-b5e2-96ca1b381167)
 
 
+Each line represents one reading from a specific detector. Detectors take one reading every hour. If you examine the file using a programming editor, (Notepad++ can handle the job), you can see that the first row gives headers and there are another 1520995 (1.52 million+) rows (lines). There are 23 data items (columns) per line.
 
+
+# Below is the list of the 19 stations: 
+
+188 => 'AURN Bristol Centre',
+203 => 'Brislington Depot',
+206 => 'Rupert Street',
+209 => 'IKEA M32',
+213 => 'Old Market',
+215 => 'Parson Street School',
+228 => 'Temple Meads Station',
+270 => 'Wells Road',
+271 => 'Trailer Portway P&R',
+375 => 'Newfoundland Road Police Station',
+395 => "Shiner's Garage",
+452 => 'AURN St Pauls',
+447 => 'Bath Road',
+459 => 'Cheltenham Road \ Station Road',
+463 => 'Fishponds Road',
+481 => 'CREATE Centre Roof',
+500 => 'Temple Way',
+501 => 'Colston Avenue'
+672 => 'Marlborough Street'
 
