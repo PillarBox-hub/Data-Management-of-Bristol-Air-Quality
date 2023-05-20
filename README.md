@@ -55,3 +55,22 @@ Each line represents one reading from a specific detector. Detectors take one re
 672 => 'Marlborough Street'
 
 
+# Below is the Schema table:
+
+| measure       | Description | unit            |
+| ------------- | ------------- | -------------- |              
+| Date Time      | Unique ID of loan Application |
+| Gender        | Gender of Loan Applicant |
+| Married       | Marital Status of the Applicant |
+| Dependents    | Number of Children of Applicant |
+| Education     | Education Status of the Applicant|
+| Self_Employed | Employment status of the Applican|
+|ApplicantIncome| Income earned by the Applicant   |
+|CoapplicantIncome| Income of Coapplicant          |
+|LoanAmount|   Amount of loan Applied for          |
+|Loan_Amount_Term| Loan Repayment Duration         |
+|Credit_History|   Applicants Credit History       |
+|Property_Area|    Area of Applicants Property     |
+|Loan_Status|   Status of loan applicant           |
+
+
