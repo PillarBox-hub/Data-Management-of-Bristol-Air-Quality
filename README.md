@@ -59,9 +59,9 @@ Each line represents one reading from a specific detector. Detectors take one re
 
 | measure       | Description | unit            |
 | ------------- | ------------- | -------------- |              
-| Date Time      | Unique ID of loan Application |
-| Gender        | Gender of Loan Applicant |
-| Married       | Marital Status of the Applicant |
+| Date Time      | Date and time of measurement|datetime |  
+| Gender        | Gender of Loan Applicant |  |
+| Married       | Marital Status of the Applicant | |
 | Dependents    | Number of Children of Applicant |
 | Education     | Education Status of the Applicant|
 | Self_Employed | Employment status of the Applican|
