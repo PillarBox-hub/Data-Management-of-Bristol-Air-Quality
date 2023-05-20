@@ -91,10 +91,11 @@ Instrument Type Classification of the instrument text
 | PM10 | Concentration of particulate matter <10 micron diameter | ㎍/m  |
 |NVPM10| Concentration of non - volatile particulate matter <10 micron diameter  | |
 |VPM10| Concentration of volatile particulate matter <10 micron diameter        | |
-|LoanAmount|   Amount of loan Applied for          | |
-|Loan_Amount_Term| Loan Repayment Duration         | |
-|Credit_History|   Applicants Credit History       ||
-|Property_Area|    Area of Applicants Property     | |
-|Loan_Status|   Status of loan applicant           ||
-
-
+|NVPM2.5| Concentration of non volatile particulate matter <2.5 micron diameter        | |
+|PM2.5| Concentration of particulate matter <2.5 micron diameter         | |
+|VPM2.5|   Concentration of volatile particulate matter <2.5 micron diameter      | |
+|CO| Concentration of carbon monoxide     | |
+|O3|   Concentration of ozone           | |
+|  SO2         | Concentration of sulphur dioxide                |  |
+|  Temperature         | Air temperature                                     |  |
+|           |                                      |  |
