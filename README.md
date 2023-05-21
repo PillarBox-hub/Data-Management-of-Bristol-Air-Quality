@@ -86,3 +86,10 @@ Each line represents one reading from a specific detector. Detectors take one re
 | Current       |  Is the monitor currently operating            | text    |
 | Instrument       | Type Classification of the instrument       | text    |
 
+
+
+# Code Description (Submission flies)
+
+The zip file 21046899-dmf-assign-21.zip contains the following files with brief description of the task each one does. 
+
+1. **CROP.py** 
