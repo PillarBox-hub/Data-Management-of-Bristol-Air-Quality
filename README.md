@@ -92,4 +92,4 @@ Each line represents one reading from a specific detector. Detectors take one re
 
 The zip file 21046899-dmf-assign-21.zip contains the following files with brief description of the task each one does. 
 
-1. **CROP.py** 
+1. **CROP.py**  A python script that crops the file(bristol-ar-quality-data) to delete any records before 00:00 1 Jan 2010. This script makes use of in-built python functions as well as external libraries like pandas. 
