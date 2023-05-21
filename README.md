@@ -99,9 +99,9 @@ Instrument Type Classification of the instrument text
 |  SO2         | Concentration of sulphur dioxide                |  |
 |  Temperature         | Air temperature                                     | °C |
 | RH           |   Relative Humidity                                   | % |
-|         |                                       |   | 
-|        |                                      |    |
-|        |                                      |    |
+|  Air Pressure      |   Air Pressure                             | mbar   | 
+|  Location      | Text description of location                    |   text |
+| geo_point_2d       |   Latitude and longitude                    |  geo point   |
 |        |                                      |    |
 |        |                                      |    |
 |        |                                      |     |
