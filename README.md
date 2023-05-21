@@ -104,7 +104,8 @@ dataset for the year 2019 from *polltion-db*.
 8. **query-b.sql** An SQL query statement that returns the mean values of PM2.5 (particulate matter <2.5 micron diameter) & VPM2.5 (volatile particulate
 matter <2.5 micron diameter) by each station for the year 2019 for readings taken on or near 08:00 hours (peak traffic intensity) from *polltion-db*.
 9. **query-c.sql** An SQL Query statement that extends the previous query to show these values for all stations in the years 2010 to 2019 from *polltion-db*.
-10. 
+10. **nosql.md** A markdown report detailing the modelling, implementation and querying of a NoSql database specifically *mongo-db*. 
+11. **report.md** A short report in Markdown format (<1000 words) reflecting on the project, the problems encountered and the solutions found.
 
 
  
