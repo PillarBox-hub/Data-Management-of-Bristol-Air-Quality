@@ -96,5 +96,8 @@ The zip file 21046899-dmf-assign-21.zip contains the following files with brief 
 2. **CLEAN.py** A python script that uses pandas and in-built functions helps filter for and remove any dud records where there is no value for SiteID or there is a mismatch between SiteID and Location. The script also prints to the console the line number and mismatch field values for each dud record. 
 3. **Pollution.png**  The ER-diagram created from the use of MySQL Workbench to create a ER model in the third-normal form to hold the given data. 
 4. **pollution.sql**  The Use of the forward engineer feature of MySQL Workbench to generate the SQL schema and implement the database (*pollution-db*).
+5. **populate.py** A python script that uses pandas,sqlalchemy and in-built functions that takes the cleaned CSV file as input and creates a
+new database instance (*pollution-db2*) and populates it. 
+6. 
 
  
