@@ -95,5 +95,6 @@ The zip file 21046899-dmf-assign-21.zip contains the following files with brief 
 1. **CROP.py**  A python script that crops the file(bristol-ar-quality-data) to delete any records before 00:00 1 Jan 2010. This script makes use of in-built python functions as well as external libraries like pandas. 
 2. **CLEAN.py** A python script that uses pandas and in-built functions helps filter for and remove any dud records where there is no value for SiteID or there is a mismatch between SiteID and Location. The script also prints to the console the line number and mismatch field values for each dud record. 
 3. **Pollution.png**  The ER-diagram created from the use of MySQL Workbench to create a ER model in the third-normal form to hold the given data. 
-4. 
+4. **pollution.sql**  The Use of the forward engineer feature of MySQL Workbench to generate the SQL schema and implement the database (*pollution-db*).
+
  
