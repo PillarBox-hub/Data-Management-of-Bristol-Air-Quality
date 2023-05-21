@@ -55,29 +55,8 @@ Each line represents one reading from a specific detector. Detectors take one re
 672 => 'Marlborough Street'
 
 
-㎍/m
-NO 
-SiteID Site ID for the station integer
-PM10 Concentration of particulate matter <10 micron diameter ㎍/m
-NVPM10 Concentration of non - volatile particulate matter <10 micron diameter ㎍/m
-VPM10 Concentration of volatile particulate matter <10 micron diameter ㎍/m
-NVPM2.5 Concentration of non volatile particulate matter <2.5 micron diameter ㎍/m
-PM2.5 Concentration of particulate matter <2.5 micron diameter ㎍/m
-VPM2.5 Concentration of volatile particulate matter <2.5 micron diameter ㎍/m
-CO Concentration of carbon monoxide ㎎/m
-O3 Concentration of ozone ㎍/m
-SO2 Concentration of sulphur dioxide ㎍/m
-Temperature Air temperature °C
-RH Relative Humidity %
-Air Pressure Air Pressure mbar
-Location Text description of location text
-geo_point_2d Latitude and longitude geo point
-DateStart The date monitoring started datetime
-DateEnd The date monitoring ended datetime
-Current Is the monitor currently operating text
-Instrument Type Classification of the instrument text
-3
-3
+
+
 
 # Below is the Schema table:
 
@@ -89,21 +68,21 @@ Instrument Type Classification of the instrument text
 | NO    | Concentration of nitric oxide | ㎍/m
 | SiteID    | SiteID for the Station| Integer |
 | PM10 | Concentration of particulate matter <10 micron diameter | ㎍/m  |
-|NVPM10| Concentration of non - volatile particulate matter <10 micron diameter  | |
-|VPM10| Concentration of volatile particulate matter <10 micron diameter        | |
-|NVPM2.5| Concentration of non volatile particulate matter <2.5 micron diameter        | |
-|PM2.5| Concentration of particulate matter <2.5 micron diameter         | |
-|VPM2.5|   Concentration of volatile particulate matter <2.5 micron diameter      | |
-|CO| Concentration of carbon monoxide     | |
-|O3|   Concentration of ozone           | |
-|  SO2         | Concentration of sulphur dioxide                |  |
+|NVPM10| Concentration of non - volatile particulate matter <10 micron diameter  |㎍/m |
+|VPM10| Concentration of volatile particulate matter <10 micron diameter        |㎍/m |
+|NVPM2.5| Concentration of non volatile particulate matter <2.5 micron diameter        |㎍/m |
+|PM2.5| Concentration of particulate matter <2.5 micron diameter         | ㎍/m|
+|VPM2.5|   Concentration of volatile particulate matter <2.5 micron diameter      |㎍/m |
+|CO| Concentration of carbon monoxide     |mg/m |
+|O3|   Concentration of ozone           |㎍/m |
+|  SO2         | Concentration of sulphur dioxide                |㎍/m  |
 |  Temperature         | Air temperature                                     | °C |
 | RH           |   Relative Humidity                                   | % |
 |  Air Pressure      |   Air Pressure                             | mbar   | 
 |  Location      | Text description of location                    |   text |
 | geo_point_2d       |   Latitude and longitude                    |  geo point   |
-|        |                                      |    |
-|        |                                      |    |
-|        |                                      |     |
-|        |                                      |     |
-|        |                                      |     |
+| DateStart       | The date monitoring started              | datetime   |
+|  DateEnd      | The date monitoring ended                      | datetime   |
+| Current       |  Is the monitor currently operating            | text    |
+| Instrument       | Type Classification of the instrument       | text    |
+
